@@ -1,5 +1,5 @@
-# ds_GunjanBarke
-📊 Trader Sentiment Analysis
+# 📊 Trader Sentiment Analysis
+
 📌 Overview
 This project explores the relationship between trader behavior and market sentiment using two datasets:
 
