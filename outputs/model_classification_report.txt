@@ -1,0 +1,11 @@
+RandomForest classification report (pnl_positive):
+              precision    recall  f1-score   support
+
+           0       0.96      0.73      0.83        30
+           1       0.92      0.99      0.95        90
+
+    accuracy                           0.93       120
+   macro avg       0.94      0.86      0.89       120
+weighted avg       0.93      0.93      0.92       120
+
+ROC AUC: 0.9217

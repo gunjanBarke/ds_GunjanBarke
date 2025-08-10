@@ -1,0 +1,20 @@
+Variable: realized_pnl
+ Mann-Whitney U stat=14439.0000, p=0.1109
+ Cliff's delta=-0.1041
+
+Variable: total_notional
+ Mann-Whitney U stat=13515.0000, p=0.0135
+ Cliff's delta=-0.1615
+
+Variable: avg_leverage
+ Mann-Whitney U stat=17185.0000, p=0.3111
+ Cliff's delta=0.0662
+
+Variable: pnl_std
+ Mann-Whitney U stat=11950.0000, p=0.0014
+ Cliff's delta=-0.2136
+
+Variable: win_rate
+ Mann-Whitney U stat=17878.0000, p=0.0942
+ Cliff's delta=0.1092
+
